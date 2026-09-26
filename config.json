@@ -1,6 +1,6 @@
 {
-  "appName": "My Web App",
-  "websiteUrl": "https://www.example.com",
+  "appName": "JRmusic",
+  "websiteUrl": "https://music.aleafs.cn",
   "iconPath": "./icon.png",
   "outputDir": "./dist",
   "electron": {
